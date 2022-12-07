@@ -231,7 +231,8 @@ jQuery(function($){
 				<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_center et_pb_bg_layout_light">
 				
 				
-				<div class="et_pb_text_inner"><p id="namaUndangan"></p>
+				<div class="et_pb_text_inner">
+					<!-- <p id="namaUndangan"></p> -->
 <h2>You Are Invited!&nbsp;</h2>
 <p>The Wedding of </p>
 <h1 style="font-family:'Vibur',cursive">Febby & Mufid</h1>
@@ -469,7 +470,82 @@ jQuery(function($){
 			<div class="et_pb_section et_pb_section_4 heroSlider et_pb_with_background et_pb_fullwidth_section et_section_regular section_has_divider et_pb_bottom_divider et_pb_top_divider" >
 				<div class="et_pb_top_inside_divider et-no-transition"></div>
 				
+				<div class="et_pb_module et_pb_fullwidth_slider_0 slider et_animated et_pb_slider et_pb_slider_no_arrows et_pb_slider_no_pagination et_slider_auto et_slider_speed_3000 et_slider_auto_ignore_hover">
+				<div class="et_pb_slides">
+					<div class="et_pb_slide et_pb_slide_0 et_pb_bg_layout_dark et_pb_media_alignment_center et-pb-active-slide" data-slide-id="et_pb_slide_0">
 				
+				
+				<div class="et_pb_container clearfix">
+					<div class="et_pb_slider_container_inner">
+						
+						<div class="et_pb_slide_description">
+							
+							
+						</div> <!-- .et_pb_slide_description -->
+					</div>
+				</div> <!-- .et_pb_container -->
+				
+			</div> <!-- .et_pb_slide -->
+			<div class="et_pb_slide et_pb_slide_1 et_pb_bg_layout_dark et_pb_media_alignment_center" data-slide-id="et_pb_slide_1">
+				
+				
+				<div class="et_pb_container clearfix">
+					<div class="et_pb_slider_container_inner">
+						
+						<div class="et_pb_slide_description">
+							
+							
+						</div> <!-- .et_pb_slide_description -->
+					</div>
+				</div> <!-- .et_pb_container -->
+				
+			</div> <!-- .et_pb_slide -->
+			<div class="et_pb_slide et_pb_slide_2 et_pb_bg_layout_dark et_pb_media_alignment_center" data-slide-id="et_pb_slide_2">
+				
+				
+				<div class="et_pb_container clearfix">
+					<div class="et_pb_slider_container_inner">
+						
+						<div class="et_pb_slide_description">
+							
+							
+						</div> <!-- .et_pb_slide_description -->
+					</div>
+				</div> <!-- .et_pb_container -->
+				
+			</div> <!-- .et_pb_slide -->
+			<div class="et_pb_slide et_pb_slide_3 et_pb_bg_layout_dark et_pb_media_alignment_center" data-slide-id="et_pb_slide_3">
+				
+				
+				<div class="et_pb_container clearfix">
+					<div class="et_pb_slider_container_inner">
+						
+						<div class="et_pb_slide_description">
+							
+							
+						</div> <!-- .et_pb_slide_description -->
+					</div>
+				</div> <!-- .et_pb_container -->
+				
+			</div> <!-- .et_pb_slide -->
+			<div class="et_pb_slide et_pb_slide_4 et_pb_bg_layout_dark et_pb_media_alignment_center" data-slide-id="et_pb_slide_4">
+				
+				
+				<div class="et_pb_container clearfix">
+					<div class="et_pb_slider_container_inner">
+						
+						<div class="et_pb_slide_description">
+							
+							
+						</div> <!-- .et_pb_slide_description -->
+					</div>
+				</div> <!-- .et_pb_container -->
+				
+			</div> <!-- .et_pb_slide -->
+			
+				</div> <!-- .et_pb_slides -->
+				
+			</div> <!-- .et_pb_slider -->
 				
 					
 			
